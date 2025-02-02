@@ -262,7 +262,7 @@ function Exchange() {
         <HStack spacing={4} alignItems="center">
   <Image src="./favicon-1.png" alt="Logo" boxSize="50px" />
   <Text fontSize="2xl" fontWeight="bold">
-    Mixer Exchange
+    Mixerss Exchange
   </Text>
 </HStack>
         
